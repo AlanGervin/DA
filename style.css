@@ -39,6 +39,10 @@ header {
     transform: translateY(-5px);
 }
 
+.center-row {
+    display: inline;
+}
+
 footer {
     background: #333;
     color: #fff;
