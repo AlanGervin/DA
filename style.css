@@ -15,7 +15,7 @@ header {
 
 .card-grid {
     display: grid;
-    grid-template-columns: auto 250px 250px auto; /* Responsive grid */
+    grid-template-columns: auto 1fr 1fr auto; /* Responsive grid */
     gap: 20px;
     max-width: 1200px;
     margin: 2rem auto;
